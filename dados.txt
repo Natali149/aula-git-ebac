@@ -1,11 +1,16 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Natali 
+
+-Profissão: Tecnica em informatica
+
+-Cidade: Porto Alegre - RS
+
+-O que faz nas horas vagas: Dificilmente tenho, mas gosto de conhecer coisas novas, escutar musica, estudar.
+
+-Feedback sobre o curso Qualidade de Software: Infelizmente parei de estudar por um tempo mas agora voltei e estou adorando, cada vez mais certeza de que acertei na escolha e os tutores também, muito atenciosos.
+
+-Feedback sobre a plataforma de estudo da EBAC: Gosto muito, adorei as ultimas atualizações, estão facilitando cada vez mais o uso.
 
 Obrigado!!!
 
